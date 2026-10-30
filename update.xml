@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='jcafjegfhknnchobobdmhmhmnoaddpkf'>
-    <updatecheck codebase='https://kylemoore-padv.github.io/padv-chrome-ext-dist/padv-save-to-drive-1.1.5.crx' version='1.1.5' />
+    <updatecheck codebase='https://kylemoore-padv.github.io/padv-chrome-ext-dist/padv-save-to-drive-1.1.6.crx' version='1.1.6' />
   </app>
 </gupdate>
